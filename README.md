@@ -33,5 +33,3 @@ https://public.tableau.com/views/HealthyLifePatientOutcomeExplorer/PerformancePu
 Use the navigation buttons within the dashboard to switch between:
 Performance Pulse Dashboard
 Patient Outcome Explorer
-
-(Add your Tableau Public link here)
